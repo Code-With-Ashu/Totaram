@@ -1,8 +1,7 @@
   =>  Template Name    : Solartec - Renewable Energy Website Template
 
-  =>  Template Link    : https://www.webtechgraphics.com/renewable-energy-website-template
-
-  =>  Template License : https://www.webtechgraphics.com/license (or read the LICENSE.txt file)
+  =>  Template Link    : https://www.webtechgraphics.com
+  =>  Template License : https://www.webtechgraphics.com(or read the LICENSE.txt file)
 
   =>  Template Author  : HTML Codex
 
